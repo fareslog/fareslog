@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing, DevOps, and Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fareslog](https://github.com/fareslog)
+- 👨‍💻 All of my projects are available at [https://github.com/fareslog](https://github.com/fareslog) and [https://gitlab.com/faresazzabi986](https://gitlab.com/faresazzabi986)
 
 - 📫 How to reach me **faresazzabi986@gmail.com**
 
@@ -103,9 +103,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/fareslog/fareslog/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
